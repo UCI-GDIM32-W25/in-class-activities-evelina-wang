@@ -5,7 +5,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 Hit enter TWICE to create a new line.
 # W1
-#  Activity 1
+## Activity 1
 
 
 - Create bullet points by writing dashes.

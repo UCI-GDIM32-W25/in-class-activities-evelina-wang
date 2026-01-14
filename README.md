@@ -20,4 +20,4 @@ Be sure the link can run before you submmit the homework!!! And don't be late
 
 ## W2
 ### Activity 1
-<img width="913" height="690" alt="a graphic breakdown of MG2" src=![W2](https://github.com/user-attachments/assets/bc6edfca-9a54-4330-947a-31e6509da1a7)>
+<img width="913" height="690" alt="a graphic breakdown of MG2" src=(https://github.com/user-attachments/assets/bc6edfca-9a54-4330-947a-31e6509da1a7)>

@@ -27,11 +27,3 @@ Created the scene and added the script for the "ground and penguin colliding" ef
 [W2 inclass](https://github.com/UCI-GDIM32-W25/mg2-evelina-wang/commit/e1aa8fc69fcdc2aa96b4f9b3924107bffc82ffc7")
 
 
-## W2
-### Activity 1
-
-<img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/410106ce-3d96-4b37-b613-ef95a3b9d083">
-
-### Activity 3
-Created the scene and added the script for the "ground and penguin colliding" effect. Enable the penguins to jump and allow them to make the next jump only when they touch the ground, and ensure there is a collision with the ground.
-<img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/UCI-GDIM32-W25/mg2-evelina-wang/commit/e1aa8fc69fcdc2aa96b4f9b3924107bffc82ffc7">

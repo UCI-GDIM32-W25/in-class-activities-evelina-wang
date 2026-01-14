@@ -24,6 +24,6 @@ Be sure the link can run before you submmit the homework!!! And don't be late
 
 ### Activity 3
 Created the scene and added the script for the "ground and penguin colliding" effect. Enable the penguins to jump and allow them to make the next jump only when they touch the ground, and ensure there is a collision with the ground.
-[W2 inclass](https://github.com/UCI-GDIM32-W25/mg2-evelina-wang/commit/e1aa8fc69fcdc2aa96b4f9b3924107bffc82ffc7")
+[W2 inclass](https://github.com/UCI-GDIM32-W25/mg2-evelina-wang/commit/e1aa8fc69fcdc2aa96b4f9b3924107bffc82ffc7)
 
 

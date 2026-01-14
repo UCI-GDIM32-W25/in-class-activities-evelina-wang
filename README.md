@@ -18,3 +18,6 @@ Be sure the link can run before you submmit the homework!!! And don't be late
 [W1 inclass](https://docs.google.com/document/d/1k-sXYZ-8W-76zU_AhOm0KkVi5w6dVbUOzbarCw8tWbU/edit?tab=t.0)
 
 
+## W2
+### Activity 1
+![W2](https://github.com/user-attachments/assets/bc6edfca-9a54-4330-947a-31e6509da1a7)

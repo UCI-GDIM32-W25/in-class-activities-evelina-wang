@@ -31,7 +31,7 @@ Created the scene and added the script for the "ground and penguin colliding" ef
 ### Acitivity 012
 Ziying Huang
 ### Activity 3
-<img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/78b3a2bd-42db-4256-a1f8-c9d2f7ebbadd)"
+<img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/78b3a2bd-42db-4256-a1f8-c9d2f7ebbadd">
 
 
 

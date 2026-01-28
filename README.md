@@ -40,6 +40,6 @@ Ziying Huang
 ### activity 1
 All target objects will exist in the scene simultaneously. Unity will instantiate and load them during the Start/Awake phase. Any logic in the script that references or searches for these objects will apply to each target object.
 ### acitivity 2
-src=(https://github.com/user-attachments/assets/4405fba7-1889-4d26-9022-22f48ca129e0)
+<img width="913" height="690" alt="a graphic breakdown of MG4"src=("https://github.com/user-attachments/assets/4405fba7-1889-4d26-9022-22f48ca129e0")>
 
 

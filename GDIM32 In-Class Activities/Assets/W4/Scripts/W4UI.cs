@@ -14,7 +14,13 @@ private void Start()
     {
         Locator.Pigeon.PigeonCoo+=HandlePigeonCoo;
     }
-
+ private void OnDestroy()
+    {
+        
+        if (Locator.Pigeon != null)
+            Locator.Pigeon.PigeonCoo -= HandlePigeonCoo;
+            
+    }
 
 
 

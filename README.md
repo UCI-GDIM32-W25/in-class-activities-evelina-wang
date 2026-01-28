@@ -34,4 +34,13 @@ Ziying Huang
 <img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/78b3a2bd-42db-4256-a1f8-c9d2f7ebbadd">
 
 
+## W4
+### activity 0
+Ziying Huang
+### activity 1
+All target objects will exist in the scene simultaneously. Unity will instantiate and load them during the Start/Awake phase. Any logic in the script that references or searches for these objects will apply to each target object.
+### acitivity 2
+<img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/73488648-47fd-43c0-adda-76457875b61d">
+
+
 

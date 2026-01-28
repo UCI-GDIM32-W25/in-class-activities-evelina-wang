@@ -7,9 +7,19 @@ public class W4Pigeon : MonoBehaviour
 
     // REMOVE these references to other objects!
     // we're going to alert them via EVENT instead!!
+
     [SerializeField] private W4Seagull[] _seagulls;
     [SerializeField] private W4UI _ui;
     [SerializeField] private W4VFX _vfx;
+   
+    public delegate void Delegate();
+public event Delegate PigeonCoo;
+    //public event System.Action PigeonCooed;
+   // void OnTriggerEnter2D(Collider2D collider)
+   // {
+    //    if(Input.GetKeydown(KeyCode.Space));//        ButtonChanged?.Invoke();
+   // }
+   
 
     // HERE, add an event to tell other objects that the pigeon coo'd!
 
@@ -32,7 +42,7 @@ public class W4Pigeon : MonoBehaviour
 
         // HERE, you'll want to REMOVE the code to "tell seagulls", "tell UI", and "tell VFX"
         // instead, fire your coo event!
-        
+       PigeonCoo?.Invoke();
         // tell seagulls
         foreach(W4Seagull seagull in _seagulls)
         {

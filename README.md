@@ -43,4 +43,17 @@ All target objects will exist in the scene simultaneously. Unity will instantiat
 <img width="913" height="690" alt="a graphic breakdown of MG2" src="https://github.com/user-attachments/assets/73488648-47fd-43c0-adda-76457875b61d">
 
 
-
+## W5
+### activity 1
+I think it is a good design. The separation between a common Item base class and an optional IBreakable interface shows good instincts about polymorphism and behavior-based design. I will keep it Item as an abstract base class Interfaces for optional behaviors (IBreakable).
+### activity 2
+Model is Player W5 Demo 2, view is inventory UI, controller is Enemy Stats
+### activity 3
+#### Scenarios 1
+Inheritance with polymorphism, basic parent class that each type of beat can be scored, and the judging rules are the same. 
+#### Scenarios 2
+ScriptableObjects Used to store character configuration and skill data (damage, cooldown, animation names); adding a new character only requires creating new data, without modifying the code.
+#### Scenarios 3
+Create a parent class for FarmObject or Interactable, shared by all farm objects. Use interfaces to separate functionality, such as IPlantable, IHarvestable, IDestructible, so that rocks, crops, and seeds only implement the parts they need.
+#### Scenarios 4
+[W5 inclass](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)

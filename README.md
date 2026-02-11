@@ -65,4 +65,4 @@ These class I know how tocheckt the FPS, some date and how to find the casuse of
 [W6 final proposal](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
 
 ### activity 2
-Attendance: Nicole Yang, Evelina Wang,Ziying Huang
+Attendance: Nicole Yang, Evelina Wang,Ziying Huangs

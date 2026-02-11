@@ -58,3 +58,11 @@ Create a parent class for FarmObject or Interactable, shared by all farm objects
 #### Scenarios 4
 [W5 inclass](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0#heading=h.y4j3q551ojs1)
 Attendance: Nicole Yang, Evelina Wang, Ziying Huang
+
+## W6
+### activity 1
+These class I know how tocheckt the FPS, some date and how to find the casuse of the lag, when our group make chasing interating.
+[W6 final proposal](https://docs.google.com/document/d/10HReV1LS2bKpFumSkCfVwM0uvrhOadVoLUmLjYf7iTk/edit?tab=t.0)
+
+### activity 2
+Attendance: Nicole Yang, Evelina Wang,Ziying Huang

@@ -76,5 +76,6 @@ use bool to check weather the player colse.In the Update() function, the program
 to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang
 
 ### activity 3
-[W7 break-down](https://github.com/user-attachments/assets/408aa807-c656-404c-a3e3-a9fb64683c97)
+<img width="913" height="690" alt="a graphic breakdown of W7" src="https://github.com/user-attachments/assets/c47adde1-9c69-45b1-afa2-3e2558d08ba7" />
+
 

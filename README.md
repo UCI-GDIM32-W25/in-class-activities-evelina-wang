@@ -66,3 +66,11 @@ These class I know how tocheckt the FPS, some date and how to find the casuse of
 
 ### activity 2
 Attendance: Nicole Yang, Evelina Wang,Ziying Huangs
+
+
+## W7
+### activity 1
+use bool to check weather the player colse.In the Update() function, the program first checks whether the player is detected through Raycast (a combination of line-of-sight detection and LayerMask filtering). Then, based on the result, it switches the state and executes the corresponding behavior. In the patrolling state, the duck generates a random direction using Random.insideUnitCircle and detects whether there are obstacles in front of it through SphereCast to avoid colliding with walls. In the chasing state, it calculates the direction vector between itself and the player on the x/z plane, uses Vector3.RotateTowards to achieve smooth turning, moves towards the player, and sets a stop distance to prevent jittering.
+
+### activity 2
+to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang

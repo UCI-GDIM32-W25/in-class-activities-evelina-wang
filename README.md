@@ -74,3 +74,7 @@ use bool to check weather the player colse.In the Update() function, the program
 
 ### activity 2
 to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang
+
+### activity 3
+[W7 break-down](https://github.com/user-attachments/assets/408aa807-c656-404c-a3e3-a9fb64683c97)
+

@@ -78,4 +78,10 @@ to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang
 ### activity 3
 <img width="913" height="690" alt="a graphic breakdown of W7" src="https://github.com/user-attachments/assets/c47adde1-9c69-45b1-afa2-3e2558d08ba7" />
 
+### activity 4
+I add box collider for each subject and adjust them to appropriate size.
+
+### activity 5
+[W7 Final](https://github.com/ZiyingHuang3/GDIM32-Final/commit/3a533aae89c7da253a282b01b5cd3c368c9f3ef6)
+
 

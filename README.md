@@ -91,7 +91,7 @@ Attendance: Nicole Yang, Evelina Wang,Ziying Huangs
 ### activity 3
 
 ### activity 4
-write the main NPC conversation and script. It has the function of playing sound effects. There is one pickup and one special sound effect.
+write the main NPC conversation and script. It has the function of playing sound effects. There is one pickup and one special sound effect.And write a key script
 ### activity 5
 I have finished the health reduction mechanism for the secondary NPC, and the mechanism for picking up items by clicking the mouse
 [W8 Final](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0)

@@ -84,4 +84,16 @@ I add box collider for each subject and adjust them to appropriate size.
 ### activity 5
 [W7 Final](https://github.com/ZiyingHuang3/GDIM32-Final/commit/3a533aae89c7da253a282b01b5cd3c368c9f3ef6)
 
+# W8
+### activity 1
+### activity 2
+Attendance: Nicole Yang, Evelina Wang,Ziying Huangs
+### activity 3
+
+### activity 4
+write the main NPC conversation and script. It has the function of playing sound effects. There is one pickup and one special sound effect.
+### activity 5
+I have finished the health reduction mechanism for the secondary NPC, and the mechanism for picking up items by clicking the mouse
+<img width="913" height="690" alt="a graphic breakdown of W8" src="https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0"
+
 

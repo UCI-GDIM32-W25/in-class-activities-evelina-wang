@@ -94,6 +94,6 @@ Attendance: Nicole Yang, Evelina Wang,Ziying Huangs
 write the main NPC conversation and script. It has the function of playing sound effects. There is one pickup and one special sound effect.
 ### activity 5
 I have finished the health reduction mechanism for the secondary NPC, and the mechanism for picking up items by clicking the mouse
-<img width="913" height="690" alt="a graphic breakdown of W8" src="https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0"
+[W8 Final](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0)
 
 

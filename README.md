@@ -76,17 +76,6 @@ use bool to check weather the player colse.In the Update() function, the program
 to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang
 
 ### activity 3
-<img width="913" height="690" alt="a graphic breakdown of W7" src="https://github.com/user-attachments/assets/c47adde1-9c69-45b1-afa2-3e2558d08ba7" 
+<img width="913" height="690" alt="a graphic breakdown of W7" src="https://github.com/user-attachments/assets/c47adde1-9c69-45b1-afa2-3e2558d08ba7" />
 
-## W8
-### activity 1
-### activity 2
-Attendance: Nicole Yang, Evelina Wang,Ziying Huangs
-### activity 3
-
-### activity 4
-write the main NPC conversation and script. It has the function of playing sound effects. There is one pickup and one special sound effect.
-### activity 5
-I have finished the health reduction mechanism for the secondary NPC, and the mechanism for picking up items by clicking the mouse
-<img width="913" height="690" alt="a graphic breakdown of W8" src="https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0"
 

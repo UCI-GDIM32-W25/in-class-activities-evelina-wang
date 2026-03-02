@@ -79,3 +79,5 @@ to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang
 <img width="913" height="690" alt="a graphic breakdown of W7" src="https://github.com/user-attachments/assets/c47adde1-9c69-45b1-afa2-3e2558d08ba7" />
 
 
+
+

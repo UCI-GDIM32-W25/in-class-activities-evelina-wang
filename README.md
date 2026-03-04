@@ -79,5 +79,18 @@ to be continue... attendance: Evelina Wang Nicole Yang, Ziying Huang
 <img width="913" height="690" alt="a graphic breakdown of W7" src="https://github.com/user-attachments/assets/c47adde1-9c69-45b1-afa2-3e2558d08ba7" />
 
 
+## W8
+### activity 1
+The PlayerW9 script controls player movement and animation. In the Update() method, the player uses Input.GetAxis("Vertical") and Input.GetAxis("Horizontal") to move forward/backward and rotate. The movement is applied using transform.Translate() and transform.Rotate(). The script also controls the Animator component by setting the parameter IsMoving. If the player is moving (translation or rotation is not zero), _animator.SetBool("IsMoving", true) is triggered so the walking animation plays; otherwise it sets it to false so the idle animation plays.
+### activity 2
+Attendance: Nicole Yang, Evelina Wang,Ziying Huangs
+### activity 3
+From our playtesting, we found out that it is not clear what controls are used for moving, the dialogue with the NPC needs to be clicked twice initially to start the conversation, the dialogue never ends unless the player completes the full conversation, the rotation sensitivity is a little too high, and there is a spot where Freddy's animation plays but the player never takes damage.
+### activity 4
+We need to finish the game end that player escape the room,build the door for triger that game ending. And add bgm to some items.
+[W9 final](https://docs.google.com/document/d/14oNVjOULok9GKOuAMz6FifVQNZexjDqA_J2JGHLxH9M/edit?tab=t.0)
+### activity 5
+I will change the dialogue script, when player talk to npc can't movement.
+
 
 
